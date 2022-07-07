@@ -1,0 +1,4 @@
+ekeKubectlConfig:
+  allowDownload: true
+  systemPath: /usr/bin
+  timeout: 8
